@@ -1,0 +1,18 @@
+#pic1 {
+    display: block;
+    margin-left: 50%;
+    width: 50%;
+    height: 100%;
+    border: saddlebrown;
+}
+p {
+    font-size: large;
+    height: 50%;
+}
+img {
+    display: block;
+    width: 20%;
+}
+#med {
+    margin-right: 0%;
+}
